@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepo1"]
+	path = SubmoduleRepo1
+	url = https://github.com/voki-tymoshenko-m/TreiningRepo1.git
